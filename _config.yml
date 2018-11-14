@@ -18,16 +18,16 @@ rss: default
 # ===========================================
 menu:
   Home: /
-  # Archives: /archives/
+  Archives: /archives/
   # Tags: /tags
   # Categories: /categories
-  # About: /about
+  About: /about
 
 # ===========================================
 # Theme Settings
 # ===========================================
 # color: default | mint green | cobalt blue | hot pink | dark violet
-color: default
+color: cobalt blue
 
 # default page mode: default | archives
 mode: default
@@ -40,7 +40,7 @@ fancybox: true
 pjax: true
 
 copyright:
-  enable: true
+  enable: false
   # https://creativecommons.org/
   license: '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>'
 
@@ -54,13 +54,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: mics@mics.tw
   stack-overflow:
   twitter:
-  facebook:
-  linkedin:
+  facebook: https://www.facebook.com/mics8128
+  linkedin: https://www.linkedin.com/in/yu-liang-chen-34080513/
   google:
-  github: https://github.com/ahonn
+  github: https://github.com/mics8128
   weibo:
   zhihu:
   douban:
@@ -88,7 +88,7 @@ google_analytics:
 google_verification:
 
 # Disqus
-disqus_shortname:
+disqus_shortname: mics
 
 #Changyan
 changyan:
